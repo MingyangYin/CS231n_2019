@@ -15,3 +15,4 @@ w = np.array([11, 12])
 
 print(np.dot(v,x))
 # woshi gengxin
+print("is test OK?")
